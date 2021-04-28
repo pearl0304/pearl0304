@@ -7,7 +7,7 @@
 
 
 #### ✏️ Major 
-Management
++ Management
 
 
 #### 🔨 Tech Stack 
@@ -23,7 +23,7 @@ Management
 
 
 #### 🏆 Certificate
-데이터분석 준전문가 (ADsP)
++ 데이터분석 준전문가 (ADsP)
 
 
 
