@@ -24,7 +24,7 @@ Management
 👉 https://github.com/pearl0304/Jsp_Board#readme
 
 > Spring을 활용한 게시판 기능 구현
-> 
+👉 https://github.com/pearl0304/Spring/tree/master/sboard1
 
 > Spring Boot을 활용하여 쇼핑몰 홈페이지 구현
 👉 https://github.com/pearl0304/Spring/tree/master/kmarket
