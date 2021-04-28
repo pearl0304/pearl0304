@@ -22,6 +22,11 @@ Management
 <a href="https://github.com/pearl0304/Bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/></a>
 
 
+#### 🏆 Certificate
+데이터분석 준전문가 (ADsP)
+
+
+
 #### 💻 Project
 1. JSP - Model1, Model2을 활용하여 게시판 기능 구현  
 + 👉 https://github.com/pearl0304/Jsp_Board#readme
