@@ -20,10 +20,14 @@ Management
 
 
 #### 💻 Project
-> JSP - Model1, Model2을 CRUD 구현  
+> JSP - Model1, Model2을 활용하여 게시판 기능 구현  
 👉 https://github.com/pearl0304/Jsp_Board#readme
 
-> Spring Boot을 활용한 쇼핑몰 홈페이지 구현
+> Spring을 활용한 게시판 기능 구현
+> 
+
+> Spring Boot을 활용하여 쇼핑몰 홈페이지 구현
+👉 https://github.com/pearl0304/Spring/tree/master/kmarket
 
 
 
