@@ -7,7 +7,7 @@
 
 
 #### ✏️ Major 
-- Management
+Management
 
 
 #### 🔨 Tech Stack 
@@ -20,7 +20,10 @@
 
 
 #### 💻 Project
+> JSP - Model1, Model2을 CRUD 구현  
+👉 https://github.com/pearl0304/Jsp_Board#readme
 
+> Spring Boot을 활용한 쇼핑몰 홈페이지 구현
 
 
 
