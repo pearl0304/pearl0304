@@ -17,7 +17,7 @@
 <a href="https://github.com/pearl0304/R"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/></a> 
 <a href="https://github.com/pearl0304/sql"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=spring&logoColor=white"/></a>
 <a href="https://github.com/pearl0304/Html-CSS"><img alt="HTML5" src="https://img.shields.io/badge/HTML-critical.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
-<a href="https://github.com/pearl0304/Html-CSS"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a href="https://github.com/pearl0304/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://github.com/pearl0304/Html-CSS"><img alt="Jquery" src="https://img.shields.io/badge/jQuery-informational.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/></a> 
 <a href="https://github.com/pearl0304/Bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/></a>
 
