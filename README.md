@@ -30,6 +30,7 @@
 
 #### 💻 Project
 1. JSP - Model1, Model2을 활용하여 게시판 기능 구현  
++ 👉 http://3.36.97.36:8080/Jboard/
 + 👉 https://github.com/pearl0304/Jsp_Board#readme
 
 2.  Spring을 활용한 게시판 기능 구현
