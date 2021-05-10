@@ -37,7 +37,7 @@
 + 👉 https://github.com/pearl0304/Spring/tree/master/sboard1
 
 3. Spring Boot을 활용하여 쇼핑몰 홈페이지 구현
-+ 👉 https://github.com/pearl0304/Spring/tree/master/kmarket
++ 👉 http://3.36.97.36:8081/kmarket/
 
 4. 홈페이지 제작 (HTML, CSS, JavaScript, BootStrap)
 + 👉 http://wlswn4630.dothome.co.kr/
