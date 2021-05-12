@@ -38,6 +38,8 @@
 
 3. Spring Boot을 활용하여 쇼핑몰 홈페이지 구현
 + 👉 http://3.36.97.36:8081/kmarket/
+> id : a101
+> pw : 1234
 
 4. 홈페이지 제작 (HTML, CSS, JavaScript, BootStrap)
 + 👉 http://wlswn4630.dothome.co.kr/
