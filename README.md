@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello%20&fontSize=60&fontAlign=80)
 
 
-## 👋 Hi, I’m Lee Jin Ju
+## 👋 Hi, KYLIE'S ROOM
 
 
 #### ✏️ Major 
