@@ -29,20 +29,6 @@
 
 
 #### 💻 Project
-1. JSP - Model1, Model2을 활용하여 게시판 기능 구현  
-+ 👉 http://3.36.97.36:8080/Jboard/ (Model1)
-+ 👉 http://3.36.97.36:8080/Jboard2 (Model2)
-
-2.  Spring을 활용한 게시판 기능 구현
-+ 👉 http://3.36.97.36:8081/sboard1/
-
-3. Spring Boot을 활용하여 쇼핑몰 홈페이지 구현
-+ 👉 http://3.36.97.36:8081/kmarket/
-- id : a101
-- pw : 1234
-
-4. 홈페이지 제작 (HTML, CSS, JavaScript, BootStrap)
-+ 👉 http://wlswn4630.dothome.co.kr/
 
 #### 📞 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:wlswn4630@gmail.com)
