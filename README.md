@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Blog
-https://summer-kylie.tistory.com/
+https://velog.io/@kylie_03
