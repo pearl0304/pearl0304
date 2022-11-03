@@ -21,9 +21,15 @@ https://velog.io/@kylie_03
 
 </br>
 
-### 2022 개인 프로젝트 📝
+### 개인 프로젝트 📝
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </br>
-[음식 추천 리스트 텔레그램으로 전송](https://github.com/pearl0304/send_menu_telegram) </br>
+* 음식 추천 리스트 텔레그램으로 전송 : https://github.com/pearl0304/send_menu_telegram </br>
+* 특정 회사의 일별 주식 시세 차트 만들기 : https://github.com/pearl0304/stock_project </br>
 
+---
+
+### 공부 중...✏
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> </br>
+* Multer을 사용하여 파일 업로드 하기 : https://github.com/pearl0304/NestJs-file-uplaod
+* GraphQL + Mongoose을 사용하여 회원가입/ 로그인 API 만들기 : https://github.com/pearl0304/NestJS-GraphQL-Mongo-JWT
 
