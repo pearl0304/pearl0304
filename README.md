@@ -26,6 +26,12 @@ https://velog.io/@kylie_03
 * 음식 추천 리스트 텔레그램으로 전송 : https://github.com/pearl0304/send_menu_telegram </br>
 * 특정 회사의 일별 주식 시세 차트 만들기 : https://github.com/pearl0304/stock_project </br>
 
+</br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  </br>
+* 간단한 Todo List 만들기 : https://github.com/pearl0304/react-todo-list
+
+
 ---
 
 ### 공부 중...✏
