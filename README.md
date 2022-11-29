@@ -30,7 +30,7 @@ https://velog.io/@kylie_03
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  </br>
 * 간단한 Todo List 만들기 : https://github.com/pearl0304/react-todo-list
-
+* 간단한 장바구니 만들기 : https://github.com/pearl0304/React_Shopping_Cart
 
 ---
 
